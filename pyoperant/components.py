@@ -8,6 +8,7 @@ class BaseComponent(object):
         pass
 
 
+
 ## Hopper ##
 
 class HopperActiveError(ComponentError):
